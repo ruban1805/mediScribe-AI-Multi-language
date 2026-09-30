@@ -1,0 +1,6 @@
+{
+  "name": "MediScribe AI - Multilingual Medical Speech-to-Text & Clinical Documentation",
+  "description": "Real-time multilingual medical speech transcription, speaker diarization, and automated clinical notes for doctor-patient consultations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
